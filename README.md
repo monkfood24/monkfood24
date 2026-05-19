@@ -10,7 +10,7 @@ helping operators run leaner, serve faster, and grow smarter.
 - **Card Machine Calculator** — transparent merchant fee comparison for hospitality operators
 - **Main Company Site** — the front door to everything Monk 24 Solutions offers
 - **Functional Site** — GDPR compliance, invoice management, and reputation 
-  management tooling for hospitality businesses
+  management tooling for hospitality businesses.
 
 ## Who we serve
 

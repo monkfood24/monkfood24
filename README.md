@@ -1,16 +1,22 @@
-## Hi there 👋
+# Monk Solutions
 
-<!--
-**monkfood24/monkfood24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building the operating layer for UK hospitality.
 
-Here are some ideas to get you started:
+We design and develop SaaS products for restaurants, takeaways, and hotels — 
+helping operators run leaner, serve faster, and grow smarter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What we're building
+
+- **Card Machine Calculator** — transparent merchant fee comparison for hospitality operators
+- **Main Company Site** — the front door to everything Monk Solutions offers
+- **JP Nadar Functional Site** — GDPR compliance, invoice management, and reputation 
+  management tooling for hospitality businesses
+
+## Who we serve
+
+Independent restaurants. Multi-site takeaway chains. Boutique hotels. 
+Anyone in UK hospitality who wants software that actually fits the way they work.
+
+## Get in touch
+
+📧 monkfoodanalystic@gmail.com

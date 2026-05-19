@@ -1,4 +1,4 @@
-# Monk Solutions
+# Monk 24 Solutions
 
 Building the operating layer for UK hospitality.
 
@@ -8,7 +8,7 @@ helping operators run leaner, serve faster, and grow smarter.
 ## What we're building
 
 - **Card Machine Calculator** — transparent merchant fee comparison for hospitality operators
-- **Main Company Site** — the front door to everything Monk Solutions offers
+- **Main Company Site** — the front door to everything Monk 24 Solutions offers
 - **JP Nadar Functional Site** — GDPR compliance, invoice management, and reputation 
   management tooling for hospitality businesses
 
